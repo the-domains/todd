@@ -1,0 +1,14 @@
+layout_spectrum: 0.04856894
+typography_spectrum: 0.9949883
+color:
+  saturation: 0.758301
+  lightness: 0.9596521
+  brandStrength: 0.8925185
+  rhythmicContrast: 0.9413084
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Todd
